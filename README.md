@@ -6,7 +6,7 @@ These hook is tinked to be used as a solution to stick header components, you ca
 
 
 ```javascript
-import {useStick) from 'useStick'
+import {useStick} from 'useStick'
 
 function MyComponent(){
   const [stick] = useStick(false, 900)
